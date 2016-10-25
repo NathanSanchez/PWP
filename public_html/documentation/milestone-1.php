@@ -1,10 +1,18 @@
 <!DOCTYPE html>
-<html>
-	<head></head>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+		<!-- add CSS file -->
+		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+		<title>NATHANS CoOOoOOL WEBSITE</title>
+	</head>
 	<body>
+		<section class="bg-gray text-green">
+
 		<h1>The Purpose</h1>
 
-		<p>of this bad boy is to get me a job;^)</p>
+
+		<p>of this bad boy is to get me a job.</p>
 
 		<h1>the attend audience</h1>
 
@@ -21,7 +29,7 @@
 		<h1>Use Case</h1>
 
 		<p>Hank comes to my website at my request on friday the 14th 2020 in tokyo using his gaming pc to test bugs on my website</p>
-
+		</section>
 
 
 
