@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<!-- add CSS file -->
-		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="../css/stylesheet.css" rel="stylesheet" type="text/css">
 		<title>NATHANS CoOOoOOL WEBSITE</title>
 	</head>
 	<body>
