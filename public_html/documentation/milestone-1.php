@@ -20,7 +20,7 @@
 
 		<h1>goals</h1>
 
-		<p>to get a full time job and make this website look sick 1m1</p>
+		<p>to get a full time job in web development, right now im leaning more to front end development but i really remain undecided </p>
 
 		<h1>Hank Burns</h1>
 
@@ -29,6 +29,8 @@
 		<h1>Use Case</h1>
 
 		<p>Hank comes to my website at my request on friday the 14th 2020 in tokyo using his gaming pc to test bugs on my website</p>
+			<h1></h1>
+
 		</section>
 
 
