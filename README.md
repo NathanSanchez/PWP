@@ -19,3 +19,20 @@ As it is, your Milestone 1 passes at [Tier I](https://bootcamp-coders.cnm.edu/pr
 - Fix typo in "documetation"
 - Don't forget the `lang="en"` attribute on your &lt;html&gt; tag.
 - Have a look at the [Sample PWP Milestones](https://bootcamp-coders.cnm.edu/projects/personal/example/) for guidance on creating a Persona and Use Case
+
+## Milestone 2&alpha; Feedback
+First thing, the CSS in your `<img>` tags is skewing the images. I had to use DevTools to see your images properly. CSS inside HTML tags is a bigtime NOPE. D: 
+
+Without a Content Strategy, I do not have enough information here in the wireframes to decipher your plans for your site. For example, I don't know what content or links are supposed to go in the header and navbar. What we are looking for here in your Milestone 2a documentation is a level of detail and clarity that you might submit to your boss or client.
+
+I also don't see a contact form here. Remember that a contact form is a required component of your site.
+
+Unfortunately, I cannot sign off on this Milestone until the Content Strategy section is complete. Please review the [Milestone 2&alpha; Documentation](https://bootcamp-coders.cnm.edu/projects/personal/milestone-two/) and [Sample Milestones](https://bootcamp-coders.cnm.edu/projects/personal/example/)
+
+Please be aware that a missing or [Tier 0](https://bootcamp-coders.cnm.edu/projects/personal/rubric/) Milestone can fail your PWP. See Edits &amp; Suggestions below for details, and please finish up your Content Strategy ASAP and resubmit.
+
+### Edits &amp; Suggestions
+- Please complete your Content Strategy section and re-submit this Milestone ASAP in order to recieve sign-off to begin development.
+- Your HTML indentation is off, and your `<head>` tag is missing the required elements! Please fix.
+- NO CSS in your HTML tags please! Size your images in a CSS file, and remove the inline CSS please.
+- Your images are missing the required `alt` text.
