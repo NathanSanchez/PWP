@@ -5,10 +5,15 @@ body {
 }
 
 /* class selector */
+
 .bg-gray {
 	background-color: darkgreen;
 }
 
+div{
+	background: url("Desktop HD.png");
+
+}
 
 
 /* id selector  */
