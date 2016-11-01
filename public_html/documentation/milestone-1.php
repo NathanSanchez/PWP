@@ -28,10 +28,15 @@
 		<ul>
 
 			<li>Age: 52</li>
+
 			<li>Profession: playground sales men</li>
+
 			<li>Technology: Iphone 5c older basic pc built in 2007</li>
-			<li>Attitudes and Behaviors: Hank likes working fast and hard he doesn't like slackers at all. Hank is very proud that he has stated from nothing and became something. Hank is always the first to show up at social events. Hank is knowen by is family as a very nice man who would do almost anything for his family, by his employees Hank is known as very hard Hank wants you to work as hard as he does if he catches you slacking he will chew you out.  </li>t
+
+			<li>Attitudes and Behaviors: Hank likes working fast and hard he doesn't like slackers at all. Hank is very proud that he has stated from nothing and became something. Hank is always the first to show up at social events. Hank is knowen by is family as a very nice man who would do almost anything for his family, by his employees Hank is known as very hard Hank wants you to work as hard as he does if he catches you slacking he will chew you out.  </li>
+
 			<li>Frustrations and Needs: Hank already has a website but its a couple of years old and it needs up some dates, so hank contracted another developer who long story short took most of the budget leaving hank little money to work with. Hanks needs are to find a developer who will work for not too much money and do the work that hank expects. Hank is worried that he is going to lose more of his online buyers.</li>
+
 			<li>Goals: Hanks goals are to find somebody who works hard like he does but will do it for less. Hanks other goal is to be one of the top search results in google so he can get more of the online market to his business so his company can keep expanding at the rate he would like.</li>
 
 		</ul>
@@ -43,17 +48,17 @@
 
 		<p>So i Nathan Sanchez got recommenced the job by one of my friends who saw the posting on cragslist after he had contacted Hank to inquire about the job offering realized that Hank was paying too low and sent me the cragslist link. I read the posting and decide ill send him my git and my resume and my website since i don't have a full time job yet. Hank gets the email goes through my resume and isnt super impressed but he decides to take a look at my website and sees that its way better then he expected. Hank takes the day to think about my offer he then decides that he will give me a call so he can get the ball rolling on this project of his. Hank gives me a call at 5pm to tell me that i have the job.</p>
 
-			<h1>brief plan for this website</h1>
+			<h1>content strategy </h1>
 
 			<p>my plan is to really get this site looking good right now im thinking about grey or green (possibly both)
-			i think it would be cool/kinda funny to show some of my code in the site(also having a github link). have links or qr codes to other websites/apps more info about me like what ive done up to this point, i want it to be something that i can put on my resume.</p>
+			i think it would be cool to show some of my code in the site. I want to have a hot bar at the top with 3 or 4 other pages that will go to my best code more info and maybe another with me talking about code like technical stuff like problems ive had before and how i solved them or something similar.</p>
 
 		<ol>
 
 			<li>Welcome: My name is Nathan Sanchez im a young front end/back end developer</li>
-			<li>About Me: My name is Nathan im 18 years old i was born and raised in Albuquerque New Mexico. My coding languges are HTML 5, CSS3, JavaScript, Angular 2, MySQL, PHP, Bootstrap, jquery,GitHub and im still learning and pushing myself harder and harder</li>
+			<li>About Me: My name is Nathan im 18 years old i was born and raised in Albuquerque New Mexico i love video games and cars. My coding languages are HTML 5, CSS3, JavaScript, Angular 2, MySQL, PHP, Bootstrap, jquery,GitHub and im still learning and pushing myself harder and harder</li>
 			<li>Portfolio: i plan to make the website look really good id also would want to show some of my best work</li>
-			<li>Contact: in my contacts i will have my busniess email, twitter,github,instagram,Linkin</li>
+			<li>Contact: in my contacts i will have my busniess email, twitter, github, instagram, Linkin</li>
 
 		</ol>
 
