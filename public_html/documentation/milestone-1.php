@@ -48,11 +48,6 @@
 
 		<p>So i Nathan Sanchez got recommenced the job by one of my friends who saw the posting on cragslist after he had contacted Hank to inquire about the job offering realized that Hank was paying too low and sent me the cragslist link. I read the posting and decide ill send him my git and my resume and my website since i don't have a full time job yet. Hank gets the email goes through my resume and isnt super impressed but he decides to take a look at my website and sees that its way better then he expected. Hank takes the day to think about my offer he then decides that he will give me a call so he can get the ball rolling on this project of his. Hank gives me a call at 5pm to tell me that i have the job.</p>
 
-			<h1>content strategy </h1>
-
-			<p>my plan is to really get this site looking good right now im thinking about grey or green (possibly both)
-			i think it would be cool to show some of my code in the site. I want to have a hot bar at the top with 3 or 4 other pages that will go to my best code more info and maybe another with me talking about code like technical stuff like problems ive had before and how i solved them or something similar.</p>
-
 		<ol>
 
 			<li>Welcome: My name is Nathan Sanchez im a young front end/back end developer</li>
