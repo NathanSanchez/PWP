@@ -36,3 +36,11 @@ Please be aware that a missing or [Tier 0](https://bootcamp-coders.cnm.edu/proje
 - Your HTML indentation is off, and your `<head>` tag is missing the required elements! Please fix.
 - NO CSS in your HTML tags please! Size your images in a CSS file, and remove the inline CSS please.
 - Your images are missing the required `alt` text.
+
+## Milestone 2a Feedback - Update
+Hey Nathan - just took a look at your Content Strategy update to Milestone 2a. Can you bring this up a notch? The more detailed your plan is, the easier your development will go. And it's important that you are able to clearly communicate your strategy as a developer. I'm looking for something that you would write for someone you're doing professional work for.
+
+Have a look at the Sample PWP Milestones here for help: 
+https://bootcamp-coders.cnm.edu/projects/personal/example/
+
+I'm going to give you the go ahead to keep working on your PWP. At the present time, I can only pass this Milestone at [Tier I](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Keep in communication with the bridge as you move forward with this project. We're here to help. We'll be checking up with you too.
