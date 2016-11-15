@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<title>NATHANS CoOOoOOL WEBSITE</title>
 	</head>
-
+<header>Nathan this is your header</header>
 	<body>
 		<section>
 

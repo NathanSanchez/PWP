@@ -1,20 +1,2 @@
-body {
-	color: green;
-	font-size: 1.2em;
-	padding: 1em;
-}
 
-/* class selector */
-
-.bg-gray {
-	background-color: darkgreen;
-}
-
-div{
-	background: url("Desktop HD.png");
-
-}
-
-
-/* id selector  */
 
