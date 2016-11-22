@@ -9,19 +9,40 @@
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
+
+		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
 		<!-- jQuery library -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 		<!-- Latest compiled JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
+		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<!-- fonts -->
+		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
 		<title>Nathan Andrew Sanchez</title>
 	</head>
 
 	<body>
-		<h1>Nathan Andrew Sanchez</h1>
+		<div class="title">
+			<h1>Nathan Andrew Sanchez</h1>
+		</div>
+
+		<h2>Contact</h2>
 		<ul>
-			<li>contact</li>
 			<li>nathanandrewsanchez@gmail.com (505)922-5975 </li>
 		</ul>
 		<h2>Experience</h2>
@@ -29,14 +50,6 @@
 
 			Sweet beast human give me attention meow or russian blue. You call this cat food? use lap as chair, or shove bum in owner's face like camera lens damn that dog . Eat owner's food purr while eating, climb a tree, wait for a fireman jump to fireman then scratch his face, licks your face. Destroy the blinds. Fall asleep on the washing machine have my breakfast spaghetti yarn. Paw at your fat belly sleep on dog bed, force dog to sleep on floor. Asdflkjaertvlkjasntvkjn (sits on keyboard). Eat grass, throw it back up put toy mouse in food bowl run out of litter box at full speed so shake treat bag slap owner's face at 5am until human fills food dish. Toy mouse squeak roll over run outside as soon as door open lick the other cats or shake treat bag meow for food, then when human fills food dish, take a few bites of food and continue meowing yet eat prawns daintily with a claw then lick paws clean wash down prawns with a lap of carnation milk then retire to the warmest spot on the couch to claw at the fabric before taking a catnap. Drink water out of the faucet. Scratch the furniture refuse to drink water except out of someone's glass. Hide when guests come over jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Chase imaginary bugs sit and stare who's the baby, for friends are not food, for run in circles. Mew chew iPad power cord, put toy mouse in food bowl run out of litter box at full speed for knock over christmas tree, knock over christmas tree.
 		</p>
-
-
-
-
-
-
-
-
 
 	</body>
 
