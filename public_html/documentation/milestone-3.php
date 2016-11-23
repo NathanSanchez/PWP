@@ -34,10 +34,9 @@
 		<!-- NavBar -->
 		<nav class="navbar navbar-inverse navbar-fixed-top" id="my-navbar">
 			<div class="container">
-
-
-			</div>
-		</nav>
+			<div class="navbar-header">
+			</div><!-- end container -->
+		</nav><!-- end of the nav bar -->
 
 
 		<div class="title">
