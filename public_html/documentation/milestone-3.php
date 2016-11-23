@@ -1,13 +1,14 @@
 <DOCTYPE html>
 	<html lang="en">
 	<head>
+		<meta charset="utf-8">
 
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-COMPATIBLE" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
-		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+		<!-- Bootstrap Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
 
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
@@ -22,21 +23,23 @@
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
-		<!-- jQuery library -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
-		<!-- Latest compiled JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-		<!-- fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
 
 		<title>Nathan Andrew Sanchez</title>
 	</head>
 
 	<body>
+		<!-- NavBar -->
+		<nav class="navbar navbar-inverse navbar-fixed-top" id="my-navbar">
+			<div class="container">
+
+
+			</div>
+		</nav>
+
+
 		<div class="title">
 			<h1>Nathan Andrew Sanchez</h1>
 		</div>
@@ -50,6 +53,9 @@
 
 			Sweet beast human give me attention meow or russian blue. You call this cat food? use lap as chair, or shove bum in owner's face like camera lens damn that dog . Eat owner's food purr while eating, climb a tree, wait for a fireman jump to fireman then scratch his face, licks your face. Destroy the blinds. Fall asleep on the washing machine have my breakfast spaghetti yarn. Paw at your fat belly sleep on dog bed, force dog to sleep on floor. Asdflkjaertvlkjasntvkjn (sits on keyboard). Eat grass, throw it back up put toy mouse in food bowl run out of litter box at full speed so shake treat bag slap owner's face at 5am until human fills food dish. Toy mouse squeak roll over run outside as soon as door open lick the other cats or shake treat bag meow for food, then when human fills food dish, take a few bites of food and continue meowing yet eat prawns daintily with a claw then lick paws clean wash down prawns with a lap of carnation milk then retire to the warmest spot on the couch to claw at the fabric before taking a catnap. Drink water out of the faucet. Scratch the furniture refuse to drink water except out of someone's glass. Hide when guests come over jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Chase imaginary bugs sit and stare who's the baby, for friends are not food, for run in circles. Mew chew iPad power cord, put toy mouse in food bowl run out of litter box at full speed for knock over christmas tree, knock over christmas tree.
 		</p>
+
+
+
 
 	</body>
 

@@ -44,6 +44,68 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<<meta charset="utf-8">
+
+			<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+			<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+					integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+			<!--font-->
+			<!--<link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+			<link href='https://fonts.googleapis.com/css?family=Quattrocento+Sans' rel='stylesheet' type='text/css'-->
+
+
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+					integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+			<!-- fontawesome -->
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+
+			<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
+			<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+			<!--[if lt IE 9]>
+			<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+			<![endif]-->
+
+			<!-- CUSTOM CSS -->
+			<link rel="stylesheet" href="css/style.css" type="text/css">
+
+			<!-- jQuery -->
+			<script src="https://code.jquery.com/jquery-2.2.3.min.js"
+					  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+			<!-- Latest compiled and minified JavaScript -->
+			<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+					  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+					  crossorigin="anonymous"></script>
+
+
+
+
 		<h1>Use Case</h1>
 
 		<p>So i Nathan Sanchez got recommenced the job by one of my friends who saw the posting on cragslist after he had contacted Hank to inquire about the job offering realized that Hank was paying too low and sent me the cragslist link. I read the posting and decide ill send him my git and my resume and my website since i don't have a full time job yet. Hank gets the email goes through my resume and isnt super impressed but he decides to take a look at my website and sees that its way better then he expected. Hank takes the day to think about my offer he then decides that he will give me a call so he can get the ball rolling on this project of his. Hank gives me a call at 5pm to tell me that i have the job.</p>
