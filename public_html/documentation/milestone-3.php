@@ -103,8 +103,8 @@
 						for my Experience as a Web Dev as i mentioned above i went to deep dive coding bootcamp which is a full stack web development class where i learned
 						HTML5, JavaScript, Angular 2, MySQL, PHP and PHPUnit, CSS3, Bootstrap, GitHub, jQuery. In this class we get set in to groups where we begain development of a
 						web app of our choice called capstone. My capstone is called Cannaduceus its main perpose is to help medical marijuana patients find dispensarys near them and to help find the
-						right strain of marijuana for them. its actually pretty cool theres a lot of code that goes in to it such as a little bit of html5 a whole lot of php and of coures
-
+						right strain of marijuana for them. its actually pretty cool theres a lot of code that goes in to it such as a little bit of html5 a whole lot of php and of coures Css and Anglur abd a couple more.
+						Last but not least this here website!
 					</p><!-- temp writing for now -->
 				</div>
 
