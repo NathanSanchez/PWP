@@ -5,15 +5,16 @@
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
-		<meta name="viewport" content="width=device-width, initial-scale=1"/>
-
 		<link type="text/css" href="../css/stylesheet.css" rel="stylesheet" />
 
-		<!-- Bootstrap Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,6 +29,8 @@
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+		<!--fonts up in here -->
+		<link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet">
 
 		<title>Nathan Andrew Sanchez</title>
 	</head>
@@ -63,14 +66,35 @@
 		<div class="jumbotron">
 			<div class="container text-center" >
 				<h1>Nathan Andrew Sanchez</h1>
-				<p>one cool dude</p> <!-- this defiantly isn't making it to the final draft =^. _ .^= -->
-				<div class="btn-group">
-					<a href="" class="btn-text">.contact info</a>
-					<a href="" class="btn-text">.resume</a>
-					<a href="" class="btn-text">.more info</a>
-				</div>
+
+				<div class="container-fluid bg-1 text-center" >
+					<h3 class="margin">Nathan Sanchez</h3>
+					<img class="img-circle" src="tempphoto.jpg" alt="breadhead" height="200" width="200">
+					<h3>Web Developer</h3>
+
+					<div class="btn-group">
+						<a href="" class="btn-text">contact info</a>
+						<a href="" class="btn-text">resume</a>
+						<a href="" class="btn-text">info</a>
+					</div>
+
+
 			</div> <!-- this is where the container ends -->
 		</div><!-- the end of jumbotron-->
+
+		<div class="container bg-1 text-center">
+			<div class="container">
+				<h1 class="text-center">About Me</h1>
+			</div>
+		<div class="container text-center">
+			<p class="text-center">
+				My Name is Nathan Andrew Sanchez, ive been attending
+
+
+
+
+			</p>
+			</div>
 
 
 	</body>
