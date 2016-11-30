@@ -21,4 +21,4 @@ $secret = '-- reCAPTCHA SECRET KEY --';
  * use the recipients' real name where possible; this reduces the probability of the Email being marked as spam
  **/
 $MAIL_RECIPIENTS = ["mail@email.com" => "Recipient Name"];
-require_once()
+require_once();

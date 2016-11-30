@@ -5,3 +5,8 @@ p {
 body {
 	color: darkgrey;
 }
+
+img {
+	height: 300px;
+	width: 300px;
+}
