@@ -39,7 +39,7 @@
 		<script src="js/jquery-validate.js" type="text/javascript"></script>
 
 		<!-- Your JavaScript Form Validator -->
-		<script src="js/form-validate.js"></script>
+		<!--<script src="js/form-validate.js"></script> -->
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
