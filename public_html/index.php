@@ -36,11 +36,14 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script>
 
+		<script src="js/jquery-validate.js" type="text/javascript"></script>
+
 		<!-- Your JavaScript Form Validator -->
 		<script src="js/form-validate.js"></script>
 
 		<!-- Google reCAPTCHA -->
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+
 
 		<title>Nathan Andrew Sanchez</title>
 	</head>
@@ -94,10 +97,7 @@
 
 
 				<div class="container bg-1 text-center">
-					<div class="container">
 						<h1 class="text-center">Experience</h1>
-					</div>
-					<div class="container text-center">
 						<p class="text-center">
 							For my Experience as a employee ive Had two jobs that ive done in the past. One of the jobs was working at dominos as a pizza maker / taker of phones.
 							it was at this job that i first leared about working as it was my first job that i got shortly after turing 16, working there was harder the expected but it
@@ -111,9 +111,60 @@
 							right strain of marijuana for them. its actually pretty cool theres a lot of code that goes in to it such as a little bit of html5 a whole lot of php and of course Css and Anglur abd a couple more.
 							Last but not least this here website!
 						</p><!-- temp writing for now -->
+				</div>
+
+			<!--Begin Contact Form-->
+			<form id="contact-form" action="php/mailer.php" method="post">
+				<div class="form-group">
+					<label for="name">Name <span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-user" aria-hidden="true"></i>
+						</div>
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
+				</div>
+				<div class="form-group">
+					<label for="email">Email <span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-envelope" aria-hidden="true"></i>
+						</div>
+						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="subject">Subject</label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-pencil" aria-hidden="true"></i>
+						</div>
+						<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="message">Message <span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-addon">
+							<i class="fa fa-comment" aria-hidden="true"></i>
+						</div>
+						<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
+					</div>
+				</div>
 
+				<!-- reCAPTCHA -->
+				<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
 
+				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+			</form>
+
+			<!--empty area for form error/success output-->
+			<div class="row">
+				<div class="col-xs-12">
+					<div id="output-area"></div>
+				</div>
+			</div>
 
 
 
@@ -136,68 +187,6 @@
 								</ul>
 							</div>
 						</div>
-
-
-
-
-
-
-						<!--Begin Contact Form-->
-						<form id="contact-form" action="php/mailer.php" method="post">
-							<div class="form-group">
-								<label for="name">Name <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-user" aria-hidden="true"></i>
-									</div>
-									<input type="text" class="form-control" id="name" name="name" placeholder="Name">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="email">Email <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-envelope" aria-hidden="true"></i>
-									</div>
-									<input type="email" class="form-control" id="email" name="email" placeholder="Email">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="subject">Subject</label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-pencil" aria-hidden="true"></i>
-									</div>
-									<input type="text" class="form-control" id="subject" name="subject" placeholder="Subject">
-								</div>
-							</div>
-							<div class="form-group">
-								<label for="message">Message <span class="text-danger">*</span></label>
-								<div class="input-group">
-									<div class="input-group-addon">
-										<i class="fa fa-comment" aria-hidden="true"></i>
-									</div>
-									<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
-								</div>
-							</div>
-
-							<!-- reCAPTCHA -->
-							<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
-
-							<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-							<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-						</form>
-
-						<!--empty area for form error/success output-->
-						<div class="row">
-							<div class="col-xs-12">
-								<div id="output-area"></div>
-							</div>
-						</div>
-
-
-
-
 
 	</body>
 
