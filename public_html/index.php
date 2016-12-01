@@ -116,7 +116,7 @@
 				</div>
 
 			<!--Begin Contact Form-->
-			<form id="contact-form" action="php/mailer.php" method="post">
+			<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 				<div class="form-group">
 					<label for="name">Name <span class="text-danger">*</span></label>
 					<div class="input-group">
@@ -154,8 +154,8 @@
 					</div>
 				</div>
 
-				<!-- reCAPTCHA -->
-				<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+				<!-- Google reCAPTCHA -->
+				<div class="g-recaptcha" data-sitekey="6LesmA0UAAAAAERjP8xyH23uU8gnkdD-tzH_RV7h"></div>
 
 				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
