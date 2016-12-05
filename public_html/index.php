@@ -16,7 +16,7 @@
 		<!--fonts up in here -->
 		<link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet">
 
-		<link type="text/css" href="../css/stylesheet.css" rel="stylesheet" />
+		<link type="text/css" href="css/stylesheet.css" rel="stylesheet" />
 
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
