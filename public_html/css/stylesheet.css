@@ -1,12 +1,17 @@
 p {
 	font-family: 'Yrsa', serif;
+	font-size: 2rem;
 }
 
 body {
-	color: darkgrey;
+	color: black;
 }
 
 img {
 	height: 300px;
 	width: 300px;
+}
+
+.form-rap{
+	padding-bottom: 100px;
 }

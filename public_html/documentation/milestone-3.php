@@ -64,7 +64,7 @@
 				<h1>Nathan Andrew Sanchez</h1>
 
 				<div class="container-fluid bg-1 text-center" >
-					<img class="img-circle" src="tempphoto.jpg" alt="breadhead" height="300" width="300"><!-- temp photo until proper head shot -->
+					<img class="img-circle" src="../img/tempphoto.jpg" alt="breadhead" height="300" width="300"><!-- temp photo until proper head shot -->
 					<h3>Web Developer</h3>
 			</div> <!-- this is where the container ends -->
 		</div><!-- the end of jumbotron-->
