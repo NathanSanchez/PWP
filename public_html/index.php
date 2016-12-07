@@ -20,6 +20,9 @@
 
 		<link type="text/css" href="css/stylesheet.css" rel="stylesheet"/>
 
+		<!-- font awesome cool guy -->
+		<script src="https://use.fontawesome.com/8a6f63216a.js"></script>
+
 		<!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 		<!--[if lt IE 9]>
@@ -204,13 +207,13 @@
 					</div>
 					<div>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a>nathanandrewsanchez@gmail.com</a></li>
-							<li><a>(505)922-5975</a></li>
-							<li><a href="https://github.com/NathanSanchez">Github</a>
-							<li><a href="https://twitter.com/_NathanSanchez_">Twitter</a>
+							<li><a href="mailto:nathanandrewsanchez@gmail.com">send me a email</a></li>
+							<li><a href="tel:505-922-5975">505-922-5975</a></li>
+							<li><a href="https://github.com/NathanSanchez"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
+							<li><a href="https://twitter.com/_NathanSanchez_"><i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i></a>
 							<li><a
-									href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button">Linkedin</a>
-							<li><a href="">Resume</a>
+									href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i></a>
+							<li><a href="Nathan Sanchez Resume.pdf">download my resume</a>
 						</ul>
 					</div>
 				</div>
