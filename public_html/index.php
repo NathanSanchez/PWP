@@ -198,7 +198,7 @@
 					</div>
 				</div>
 			</div>
-<!-- ay baby -->
+<!-- ay awe ya buddy boy -->
 
 			<nav class="navbar navbar-inverse navbar-fixed-bottom">
 				<div class="container">
